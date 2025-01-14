@@ -1,0 +1,28 @@
+.card{
+    background-color: var(--secondary-color);
+    border: none;
+    box-shadow: 0px 0px 33px -10px rgba(71,114,254,0.3);
+    width: 1300px;
+}
+h4,p{
+    color: var(--body-text-color);
+}
+.my-form{
+    display: flex;
+    justify-content: space-evenly;
+}
+.my-sub{
+    margin-top: 4%;
+    height: 45px;
+    font-size: 15px;
+    background-color: var(--primary-color);
+    color: white;
+    
+}
+.form-control{
+    height: 50px;
+    padding-left: 20px;
+    margin-top: 2%;
+    font-size: 15px;
+    width: 100%;
+}
